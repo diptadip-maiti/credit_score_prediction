@@ -1,1 +1,6 @@
 # credit_score_prediction
+
+- We are trying to develop a credit scoring model to optimize credit distribution.
+- We are taking conscious decisions to mitigate bias.
+- We have collected data in persion and we are using it after proper otherization.
+- 
