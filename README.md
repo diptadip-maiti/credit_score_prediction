@@ -5,3 +5,5 @@
 - We have collected data in persion and we are using it after proper otherization.
 - **Random Forest Classification** is the best performing algorithm.
 - **Accuracy  88%**
+- ![Model Performance](images/chart.png)
+
